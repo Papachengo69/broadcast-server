@@ -1,5 +1,7 @@
 # Broadcast Server
 
+[Project Page](https://github.com/Papachengo69/broadcast-server)
+
 A simple CLI WebSocket broadcast server and client implemented in Go.
 
 ## Overview
@@ -7,6 +9,7 @@ A simple CLI WebSocket broadcast server and client implemented in Go.
 This project demonstrates real-time communication using WebSockets in Go.  
 - The **server** accepts multiple client connections and broadcasts any message received to all connected clients.  
 - The **client** connects to the server, sends messages, and receives broadcasts in real-time.
+
 
 ---
 
@@ -35,3 +38,4 @@ Clone this repository:
 git clone https://github.com/Papachengo69/broadcast-server.git
 cd broadcast-server
 go mod tidy
+
