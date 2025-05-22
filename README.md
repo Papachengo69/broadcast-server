@@ -1,6 +1,6 @@
 # Broadcast Server
 
-[Project Page](https://github.com/Papachengo69/broadcast-server)
+[Project Page](https://github.com/Papachengo69/broadcast-server.git)
 
 A simple CLI WebSocket broadcast server and client implemented in Go.
 
